@@ -65,11 +65,11 @@
       "id": 15,
       "meta": {}
     },
-    "./node_modules/buffer/index.js": {
+    "./node_modules/fbjs/lib/warning.js": {
       "id": 16,
       "meta": {}
     },
-    "./node_modules/fbjs/lib/warning.js": {
+    "./node_modules/buffer/index.js": {
       "id": 17,
       "meta": {}
     },
@@ -1155,287 +1155,287 @@
       "id": 261,
       "meta": {}
     },
-    "./node_modules/node-libs-browser/node_modules/string_decoder/index.js": {
+    "./node_modules/react-dom/lib/DOMChildrenOperations.js": {
       "id": 262,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/DOMChildrenOperations.js": {
+    "./node_modules/react-dom/lib/DOMNamespaces.js": {
       "id": 263,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/DOMNamespaces.js": {
+    "./node_modules/react-dom/lib/EventPluginRegistry.js": {
       "id": 264,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/EventPluginRegistry.js": {
+    "./node_modules/react-dom/lib/EventPluginUtils.js": {
       "id": 265,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/EventPluginUtils.js": {
+    "./node_modules/react-dom/lib/KeyEscapeUtils.js": {
       "id": 266,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/KeyEscapeUtils.js": {
+    "./node_modules/react-dom/lib/LinkedValueUtils.js": {
       "id": 267,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/LinkedValueUtils.js": {
+    "./node_modules/react-dom/lib/ReactComponentEnvironment.js": {
       "id": 268,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/ReactComponentEnvironment.js": {
+    "./node_modules/react-dom/lib/ReactErrorUtils.js": {
       "id": 269,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/ReactErrorUtils.js": {
+    "./node_modules/react-dom/lib/ReactUpdateQueue.js": {
       "id": 270,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/ReactUpdateQueue.js": {
+    "./node_modules/react-dom/lib/createMicrosoftUnsafeLocalFunction.js": {
       "id": 271,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/createMicrosoftUnsafeLocalFunction.js": {
+    "./node_modules/react-dom/lib/getEventCharCode.js": {
       "id": 272,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/getEventCharCode.js": {
+    "./node_modules/react-dom/lib/getEventModifierState.js": {
       "id": 273,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/getEventModifierState.js": {
+    "./node_modules/react-dom/lib/getEventTarget.js": {
       "id": 274,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/getEventTarget.js": {
+    "./node_modules/react-dom/lib/instantiateReactComponent.js": {
       "id": 275,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/instantiateReactComponent.js": {
+    "./node_modules/react-dom/lib/isEventSupported.js": {
       "id": 276,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/isEventSupported.js": {
+    "./node_modules/react-dom/lib/shouldUpdateReactComponent.js": {
       "id": 277,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/shouldUpdateReactComponent.js": {
+    "./node_modules/react-dom/lib/validateDOMNesting.js": {
       "id": 278,
       "meta": {}
     },
-    "./node_modules/react-dom/lib/validateDOMNesting.js": {
+    "./node_modules/react-event-listener/node_modules/babel-runtime/helpers/typeof.js": {
       "id": 279,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/babel-runtime/helpers/typeof.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_defined.js": {
       "id": 280,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_defined.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_enum-bug-keys.js": {
       "id": 281,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_enum-bug-keys.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_iterators.js": {
       "id": 282,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_iterators.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_library.js": {
       "id": 283,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_library.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_object-create.js": {
       "id": 284,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_object-create.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_object-gops.js": {
       "id": 285,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_object-gops.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_set-to-string-tag.js": {
       "id": 286,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_set-to-string-tag.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_shared-key.js": {
       "id": 287,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_shared-key.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_shared.js": {
       "id": 288,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_shared.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_to-integer.js": {
       "id": 289,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_to-integer.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_to-primitive.js": {
       "id": 290,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_to-primitive.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_wks-define.js": {
       "id": 291,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_wks-define.js": {
+    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_wks-ext.js": {
       "id": 292,
       "meta": {}
     },
-    "./node_modules/react-event-listener/node_modules/core-js/library/modules/_wks-ext.js": {
+    "./node_modules/react-router/lib/AsyncUtils.js": {
       "id": 293,
       "meta": {}
     },
-    "./node_modules/react-router/lib/AsyncUtils.js": {
+    "./node_modules/react-router/lib/ContextUtils.js": {
       "id": 294,
       "meta": {}
     },
-    "./node_modules/react-router/lib/ContextUtils.js": {
+    "./node_modules/react-router/lib/PropTypes.js": {
       "id": 295,
       "meta": {}
     },
-    "./node_modules/react-router/lib/PropTypes.js": {
+    "./node_modules/react-router/lib/RouterContext.js": {
       "id": 296,
       "meta": {}
     },
-    "./node_modules/react-router/lib/RouterContext.js": {
+    "./node_modules/react-smooth/node_modules/lodash/_MapCache.js": {
       "id": 297,
       "meta": {}
     },
-    "./node_modules/react-smooth/node_modules/lodash/_MapCache.js": {
+    "./node_modules/react-smooth/node_modules/lodash/_baseIsEqual.js": {
       "id": 298,
       "meta": {}
     },
-    "./node_modules/react-smooth/node_modules/lodash/_baseIsEqual.js": {
+    "./node_modules/react-smooth/node_modules/lodash/_isHostObject.js": {
       "id": 299,
       "meta": {}
     },
-    "./node_modules/react-smooth/node_modules/lodash/_isHostObject.js": {
+    "./node_modules/react-smooth/node_modules/lodash/isArrayLike.js": {
       "id": 300,
       "meta": {}
     },
-    "./node_modules/react-smooth/node_modules/lodash/isArrayLike.js": {
+    "./node_modules/react-smooth/node_modules/lodash/isFunction.js": {
       "id": 301,
       "meta": {}
     },
-    "./node_modules/react-smooth/node_modules/lodash/isFunction.js": {
+    "./node_modules/react-smooth/node_modules/lodash/keys.js": {
       "id": 302,
       "meta": {}
     },
-    "./node_modules/react-smooth/node_modules/lodash/keys.js": {
+    "./node_modules/react/lib/ReactComponent.js": {
       "id": 303,
       "meta": {}
     },
-    "./node_modules/react/lib/ReactComponent.js": {
+    "./node_modules/react/lib/ReactNoopUpdateQueue.js": {
       "id": 304,
       "meta": {}
     },
-    "./node_modules/react/lib/ReactNoopUpdateQueue.js": {
+    "./node_modules/readable-stream/lib/_stream_writable.js": {
       "id": 305,
       "meta": {}
     },
-    "./node_modules/readable-stream/lib/_stream_writable.js": {
+    "./node_modules/readable-stream/readable-browser.js": {
       "id": 306,
       "meta": {}
     },
-    "./node_modules/readable-stream/readable-browser.js": {
+    "./node_modules/recharts/lib/cartesian/Area.js": {
       "id": 307,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/Area.js": {
+    "./node_modules/recharts/lib/cartesian/Bar.js": {
       "id": 308,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/Bar.js": {
+    "./node_modules/recharts/lib/cartesian/CartesianAxis.js": {
       "id": 309,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/CartesianAxis.js": {
+    "./node_modules/recharts/lib/cartesian/CartesianGrid.js": {
       "id": 310,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/CartesianGrid.js": {
+    "./node_modules/recharts/lib/cartesian/Line.js": {
       "id": 311,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/Line.js": {
+    "./node_modules/recharts/lib/cartesian/XAxis.js": {
       "id": 312,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/XAxis.js": {
+    "./node_modules/recharts/lib/cartesian/YAxis.js": {
       "id": 313,
       "meta": {}
     },
-    "./node_modules/recharts/lib/cartesian/YAxis.js": {
+    "./node_modules/recharts/lib/shape/Polygon.js": {
       "id": 314,
       "meta": {}
     },
-    "./node_modules/recharts/lib/shape/Polygon.js": {
+    "./node_modules/recharts/lib/shape/Symbols.js": {
       "id": 315,
       "meta": {}
     },
-    "./node_modules/recharts/lib/shape/Symbols.js": {
+    "./node_modules/recharts/lib/util/LogUtils.js": {
       "id": 316,
       "meta": {}
     },
-    "./node_modules/recharts/lib/util/LogUtils.js": {
+    "./node_modules/recharts/node_modules/core-js/modules/_core.js": {
       "id": 317,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/core-js/modules/_core.js": {
+    "./node_modules/recharts/node_modules/core-js/modules/_descriptors.js": {
       "id": 318,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/core-js/modules/_descriptors.js": {
+    "./node_modules/recharts/node_modules/core-js/modules/_global.js": {
       "id": 319,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/core-js/modules/_global.js": {
+    "./node_modules/recharts/node_modules/core-js/modules/_is-object.js": {
       "id": 320,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/core-js/modules/_is-object.js": {
+    "./node_modules/recharts/node_modules/core-js/modules/_math-expm1.js": {
       "id": 321,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/core-js/modules/_math-expm1.js": {
+    "./node_modules/recharts/node_modules/core-js/modules/_math-sign.js": {
       "id": 322,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/core-js/modules/_math-sign.js": {
+    "./node_modules/recharts/node_modules/lodash/_MapCache.js": {
       "id": 323,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/_MapCache.js": {
+    "./node_modules/recharts/node_modules/lodash/_baseIsEqual.js": {
       "id": 324,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/_baseIsEqual.js": {
+    "./node_modules/recharts/node_modules/lodash/_isHostObject.js": {
       "id": 325,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/_isHostObject.js": {
+    "./node_modules/recharts/node_modules/lodash/_isIndex.js": {
       "id": 326,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/_isIndex.js": {
+    "./node_modules/recharts/node_modules/lodash/eq.js": {
       "id": 327,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/eq.js": {
+    "./node_modules/recharts/node_modules/lodash/keys.js": {
       "id": 328,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/keys.js": {
+    "./node_modules/recharts/node_modules/lodash/uniqueId.js": {
       "id": 329,
       "meta": {}
     },
-    "./node_modules/recharts/node_modules/lodash/uniqueId.js": {
+    "./node_modules/ripemd160/index.js": {
       "id": 330,
       "meta": {}
     },
-    "./node_modules/ripemd160/index.js": {
+    "./node_modules/sha.js/index.js": {
       "id": 331,
       "meta": {}
     },
-    "./node_modules/sha.js/index.js": {
+    "./node_modules/string_decoder/lib/string_decoder.js": {
       "id": 332,
       "meta": {}
     },
